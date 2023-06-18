@@ -1,1 +1,3 @@
 Used CRLF and core.autocrfl=true on add
+
+This line was added after adding core.autocrfl=false
