@@ -3,3 +3,5 @@ Used CRLF and core.autocrfl=true on add
 This line was added after adding core.autocrfl=false
 
 This line was added after adding .gitattributes
+
+This line was added after changing .gitattributes
