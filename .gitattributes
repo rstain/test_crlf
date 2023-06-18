@@ -1,3 +1,2 @@
-* text=auto
-
-*.txt text eol=crlf
+* -text
+* whitespace=cr-at-eol
