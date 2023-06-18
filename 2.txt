@@ -1,1 +1,3 @@
 Used LF and core.autocrfl=false on add
+
+This line was added after adding .gitattributes
